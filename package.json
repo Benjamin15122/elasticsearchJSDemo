@@ -1,0 +1,22 @@
+{
+  "name": "es-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "elasticsearch": "^15.2.0",
+    "umi": "^2.2.8",
+    "umi-plugin-react": "^1.2.3"
+  },
+  "dependencies": {
+    "antd": "^3.11.2"
+  }
+}
